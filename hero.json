@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Katsuki Bakugo",
+    "quirk": "Explosion",
+    "description": "He uses a nitroglycerin-like substance secreted on the palms of his hands to create explosions",
+    "affiliation": "U.A. High School Hero Class 1-A",
+    "birthday": "4/20",
+    "height": "172 cm",
+    "bloodtype": "A",
+    "likes": "spicy food",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/bakugo.png"
+  },
+  {
+    "name": "Ejiro Kirishima",
+    "quirk": "Hardening",
+    "description": "He can harden his whole body, which can be used for offense or defense.",
+    "affiliation": "U.A. High School Hero Class 1-A",
+    "birthday": "10/16",
+    "height": "170 cm",
+    "bloodtype": "0",
+    "likes": "Meat",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/kirishima.png"
+  },
+  {
+    "name": "Mina Ashido",
+    "quirk": "Acid",
+    "description": "She can screte acid from her body and use it to attack or move.",
+    "affiliation": "U.A. High School Hero Class 1-A",
+    "birthday": "7/15",
+    "height": "159 cm",
+    "bloodtype": "AB",
+    "likes": "Natto",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/ashido.png"
+  },
+  {
+    "name": "Shoto Todoroki",
+    "quirk": "Half-Cold, Half-Hot",
+    "description": "He has two quirks: 'freezing' on his right half and 'flames' on his left half.",
+    "affiliation": "U.A. High School Hero Class 1-A",
+    "birthday": "1/11",
+    "height": "176 cm",
+    "bloodtype": "0",
+    "likes": "Soba (the kind that's not hot)",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/todoroki.png"
+  },
+  {
+    "name": "Fumikage Tokoyami",
+    "quirk": "Dark Shadow",
+    "description": "He has a shadow-like monster inside him that can change shape elastically and fight with him.",
+    "affiliation": "U.A. High School Hero Class 1-A",
+    "birthday": "10/30",
+    "height": "158 cm",
+    "bloodtype": "AB",
+    "likes": "Apples",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/tokoyami.png"
+  },
+  {
+    "name": "Tenya Iida",
+    "quirk": "Engine",
+    "description": "He can run very fast using the engines in his calves.",
+    "affiliation": "U.A. High School Hero Class 1-A",
+    "birthday": "8/22",
+    "height": "179 cm",
+    "bloodtype": "A",
+    "likes": "Beef Stew",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/iida.png"
+  },
+  {
+    "name": "Izuku Midoriya",
+    "quirk": "One For All",
+    "description": "Smashes villans with a super power passed down from one generation the next.",
+    "affiliation": "U.A. High School Hero Class 1-A",
+    "birthday": "7/15",
+    "height": "166 cm",
+    "bloodtype": "0",
+    "likes": "Pork Cutlet Bowl",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/midoriya.png"
+  },
+  {
+    "name": "Inasa Yoarashi",
+    "quirk": "Whirlwind",
+    "description": "He can create strong winds around himself and control them.",
+    "affiliation": "Shiketsu High School 1st Year",
+    "birthday": "9/26",
+    "height": "190 cm",
+    "bloodtype": "0",
+    "likes": "Passion",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/Yoarashi.jpg"
+  },
+  {
+    "name": "All Might",
+    "quirk": "One For All",
+    "description": "Smashes villans with a super power passed down from one generation the next.",
+    "affiliation": "U.A. High School Hero Class Teacher",
+    "birthday": "6/10",
+    "height": "220 cm",
+    "bloodtype": "A",
+    "likes": "Yakushima Cedar",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/allmight.jpeg"
+  },
+  {
+    "name": "Gran Torino",
+    "quirk": "Jet",
+    "description": "He can move freely in the air with jet propulsion using the air that comes out of the soles of his feet.",
+    "affiliation": "Pro Hero",
+    "birthday": "1/28",
+    "height": "120 cm",
+    "bloodtype": "B",
+    "likes": "Taiyaki",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/grantorino.jpg"
+  },
+  {
+    "name": "Hawk",
+    "quirk": "Fierce Wings",
+    "description": "He can manipulate the feathers on his back at will. He can also shoot or transform them.",
+    "affiliation": "Pro Hero",
+    "birthday": "12/28",
+    "height": "172 cm",
+    "bloodtype": "B",
+    "likes": "Yakitori",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/hawk.png"
+  },
+  {
+    "name": "Mei Hatsume",
+    "quirk": "Zoom",
+    "description": "She can see cleary up to 5 km away.",
+    "affiliation": "U.A. High School Support Course",
+    "birthday": "4/18",
+    "height": "157 cm",
+    "bloodtype": "0",
+    "likes": "Steampunk",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/hatsume.jpg"
+  },
+  {
+    "name": "Eraser Head",
+    "quirk": "Erasure",
+    "description": "He can erase the Quirks of whoever is in his field of vision.",
+    "affiliation": "U.A. High School Hero Class Teacher",
+    "birthday": "11/8",
+    "height": "183 cm",
+    "bloodtype": "B",
+    "likes": "Cats",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/eraserhead.jpg"
+  },
+  {
+    "name": "Tamaki Amajiki",
+    "quirk": "Manifest",
+    "description": "He can manifest charactersitichs of things he eats in his body.",
+    "affiliation": "U.A. High School Hero Course 3rd Year",
+    "birthday": "3/4",
+    "height": "177 cm",
+    "bloodtype": "B",
+    "likes": "Butterflies",
+    "image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/tamaki.png"
+  }
+]
