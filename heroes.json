@@ -8,6 +8,7 @@
 "height": "172 cm",
 "bloodtype": "A",
 "likes": "spicy food",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/bakugo.png"
 },
 {
 "name": "Ejiro Kirishima",
@@ -18,6 +19,7 @@
 "height": "170 cm",
 "bloodtype": "0",
 "likes": "Meat",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/kirishima.png"
 },
 {
 "name": "Mina Ashido",
@@ -28,6 +30,7 @@
 "height": "159 cm",
 "bloodtype": "AB",
 "likes": "Natto",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/ashido.png"
 },
 {
 "name": "Shoto Todoroki",
@@ -38,6 +41,7 @@
 "height": "176 cm",
 "bloodtype": "0",
 "likes": "Soba (the kind that's not hot)",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/todoroki.png"
 },
 {
 "name": "Fumikage Tokoyami",
@@ -48,6 +52,7 @@
 "height": "158 cm",
 "bloodtype": "AB",
 "likes": "Apples",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/tokoyami.png"
 },
 {
 "name": "Tenya Iida",
@@ -58,6 +63,7 @@
 "height": "179 cm",
 "bloodtype": "A",
 "likes": "Beef Stew",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/iida.png"
 },
 {
 "name": "Izuku Midoriya",
@@ -68,6 +74,7 @@
 "height": "166 cm",
 "bloodtype": "0",
 "likes": "Pork Cutlet Bowl",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/midoriya.png"
 },
 {
 "name": "Inasa Yoarashi",
@@ -78,6 +85,7 @@
 "height": "190 cm",
 "bloodtype": "0",
 "likes": "Passion",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/Yoarashi.jpg"
 },
 {
 "name": "All Might",
@@ -88,6 +96,7 @@
 "height": "220 cm",
 "bloodtype": "A",
 "likes": "Yakushima Cedar",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/allmight.jpeg"
 },
 {
 "name": "Gran Torino",
@@ -98,6 +107,7 @@
 "height": "120 cm",
 "bloodtype": "B",
 "likes": "Taiyaki",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/grantorino.jpg"
 },
 {
 "name": "Hawk",
@@ -108,6 +118,7 @@
 "height": "172 cm",
 "bloodtype": "B",
 "likes": "Yakitori",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/hawk.png"
 },
 {
 "name": "Mei Hatsume",
@@ -118,6 +129,7 @@
 "height": "157 cm",
 "bloodtype": "0",
 "likes": "Steampunk",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/hatsume.jpg"
 },
 {
 "name": "Eraser Head",
@@ -128,6 +140,7 @@
 "height": "183 cm",
 "bloodtype": "B",
 "likes": "Cats",
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/ereaserhead.jpeg"
 },
 {
 "name": "Tamaki Amajiki",
@@ -138,5 +151,6 @@
 "height": "177 cm",
 "bloodtype": "B",
 "likes": "Butterflies",
-},
+"image": "https://raw.githubusercontent.com/karacloud1/heroes-json/main/tamaki.png"
+}
 ]
